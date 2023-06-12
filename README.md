@@ -7,6 +7,3 @@
 ## 🖋️ Sometimes I write articles
 - [React Native - when JS is too busy](https://dev.to/matteoboschi/react-native-when-js-is-too-busy-5fhn)
 - [How to create a bot for code reporting activities](https://medium.com/@heritage.tech/how-to-create-a-bot-for-code-reporting-activities-398e101c334f)
-
-## GitHub Stats
-[![Undermaken's github stats](https://github-readme-stats.vercel.app/api?username=Undermaken&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
