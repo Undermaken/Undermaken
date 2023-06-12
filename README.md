@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋 I'm Matteo</h1>
 <h3 align="center">First, solve the problem. Then write the code</h3>
 
-<a href="https://dev.to/matteoboschi" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="code__oz" /></a> </p>
+## 📖 Who am I?
+[Curriculum Vitae](https://rxresu.me/r/TKrAFE3f) (2023-06-12)
 
+## 🖋️ Sometimes I write articles
+- [React Native - when JS is too busy](https://dev.to/matteoboschi/react-native-when-js-is-too-busy-5fhn)
+- [How to create a bot for code reporting activities](https://medium.com/@heritage.tech/how-to-create-a-bot-for-code-reporting-activities-398e101c334f)
+
+## GitHub Stats
 [![Undermaken's github stats](https://github-readme-stats.vercel.app/api?username=Undermaken&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
