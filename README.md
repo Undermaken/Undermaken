@@ -10,3 +10,4 @@
 - [React Native & performance](https://www.youtube.com/watch?v=FnMoLElfgEE)
 - [Reactnative @127.0.0.1](https://www.youtube.com/watch?v=QccnG3YihJk&list=FLIfHlSD3Cy7RzExCBs4KsFw&index=8&t=7289)
 - [Ne Me Quitte PA](https://www.youtube.com/watch?v=8A7Kw_9wucM)
+- [RomaJS](https://www.facebook.com/romajs.org/videos/575771186517100)
