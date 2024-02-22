@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm Matteo</h1>
-<h3 align="center">I'm senior software engineer.</h3>
+<h3 align="center">I'm senior software engineer</h3>
+
+[📃 Curriculum](https://storage.rxresu.me/clp9g0bnbd2e29hunkgwr4cvl/resumes/clp9kr3rt08krqo5qbqysbkut.pdf)
 
 ## 🖋️ Sometimes I write articles
 - [React Native - when JS is too busy](https://dev.to/matteoboschi/react-native-when-js-is-too-busy-5fhn)
@@ -11,3 +13,6 @@
 - [Reactnative @127.0.0.1](https://www.youtube.com/watch?v=QccnG3YihJk&list=FLIfHlSD3Cy7RzExCBs4KsFw&index=8&t=7289)
 - [Ne Me Quitte PA](https://www.youtube.com/watch?v=8A7Kw_9wucM)
 - [RomaJS](https://www.facebook.com/romajs.org/videos/575771186517100)
+
+## Proud manager of a local IT community
+- [Latina in Tech](https://www.latinaintech.org/)
