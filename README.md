@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Matteo</h1>
 <h3 align="center">I'm senior software engineer</h3>
 
-[https://www.matteoboschi.com/](https://www.matteoboschi.com/)
+[https://www.matteoboschi.com](https://www.matteoboschi.com)
 
 ## 🖋️ Sometimes I write articles
 - [React Native - when JS is too busy](https://dev.to/matteoboschi/react-native-when-js-is-too-busy-5fhn)
@@ -17,4 +17,4 @@
 ## Proud manager of a local IT community
 - [Latina in Tech](https://www.latinaintech.org/)
 
-PS: I'm the author of [https://www.mappa-criminale.it/](mappa-criminale.it)
+PS: I'm the author of [mappa-criminale.it](https://www.mappa-criminale.it)
