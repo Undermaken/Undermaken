@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 I'm Matteo</h1>
 <h3 align="center">I'm software engineer</h3>
-<p align="center">[https://www.matteoboschi.com](https://www.matteoboschi.com)</p>
+
+[https://www.matteoboschi.com](https://www.matteoboschi.com)
 
 ## 🖋️ Sometimes I write articles
 - [React Native - when JS is too busy](https://dev.to/matteoboschi/react-native-when-js-is-too-busy-5fhn)
