@@ -14,7 +14,7 @@
 - [Ne Me Quitte PA](https://www.youtube.com/watch?v=8A7Kw_9wucM)
 - [RomaJS](https://www.facebook.com/romajs.org/videos/575771186517100)
 
-## Proud manager of a local IT community
+## 🏟 Proud manager of a local IT community
 - [Latina in Tech](https://www.latinaintech.org/)
 
 PS: I'm the author of [mappa-criminale.it](https://www.mappa-criminale.it)
