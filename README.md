@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 I'm Matteo</h1>
-<h3 align="center">I'm senior software engineer</h3>
-
-[https://www.matteoboschi.com](https://www.matteoboschi.com)
+<h3 align="center">I'm senior [software engineer](https://www.matteoboschi.com)</h3>
 
 ## 🖋️ Sometimes I write articles
 - [React Native - when JS is too busy](https://dev.to/matteoboschi/react-native-when-js-is-too-busy-5fhn)
