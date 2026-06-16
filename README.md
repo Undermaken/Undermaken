@@ -17,4 +17,4 @@
 ## 🏟 Proud manager of a local IT community
 - [Latina in Tech](https://www.latinaintech.org/)
 
-PS: I'm the author of [mappa-criminale.it](https://www.mappa-criminale.it)
+PS: I'm the author of [mappa-criminale.it](https://www.mappa-criminale.it) (project closed)
